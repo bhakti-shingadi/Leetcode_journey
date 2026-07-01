@@ -5,8 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0704-binary-search](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0704-binary-search) |
 ## Hash Table
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
