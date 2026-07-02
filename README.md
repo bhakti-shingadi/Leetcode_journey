@@ -35,4 +35,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0645-set-mismatch](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0645-set-mismatch) |
+## Two Pointers
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0125-valid-palindrome) |
+## String
+|  |
+| ------- |
+| [0125-valid-palindrome](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0125-valid-palindrome) |
 <!---LeetCode Topics End-->
