@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 ## Math
