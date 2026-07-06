@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Hash Table
 |  |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0704-binary-search](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Math
 |  |
 | ------- |
