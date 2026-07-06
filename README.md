@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0041-first-missing-positive](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0041-first-missing-positive) |
+| [0162-find-peak-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0162-find-peak-element) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0645-set-mismatch) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0162-find-peak-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0162-find-peak-element) |
 | [0704-binary-search](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
