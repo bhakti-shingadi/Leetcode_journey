@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0485-max-consecutive-ones](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
