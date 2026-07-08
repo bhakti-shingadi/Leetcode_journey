@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Hash Table
 |  |
 | ------- |
