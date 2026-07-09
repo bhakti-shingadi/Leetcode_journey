@@ -74,8 +74,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0344-reverse-string) |
+| [1021-remove-outermost-parentheses](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1021-remove-outermost-parentheses) |
 ## Backtracking
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0017-letter-combinations-of-a-phone-number) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
