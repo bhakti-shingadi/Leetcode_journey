@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0189-rotate-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1903-largest-odd-number-in-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 ## Sorting
 |  |
 | ------- |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0344-reverse-string) |
 | [1021-remove-outermost-parentheses](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1021-remove-outermost-parentheses) |
+| [1903-largest-odd-number-in-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 ## Backtracking
 |  |
 | ------- |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1021-remove-outermost-parentheses) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
