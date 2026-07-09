@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0001-two-sum) |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0041-first-missing-positive) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -67,6 +68,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 <!---LeetCode Topics End-->
