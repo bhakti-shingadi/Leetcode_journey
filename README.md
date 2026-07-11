@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0041-first-missing-positive) |
 | [0136-single-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0283-move-zeroes) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0001-two-sum) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0041-first-missing-positive) |
+| [0169-majority-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0242-valid-anagram) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0645-set-mismatch](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0645-set-mismatch) |
@@ -93,4 +96,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1903-largest-odd-number-in-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/1903-largest-odd-number-in-string) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
