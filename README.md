@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0001-two-sum) |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0041-first-missing-positive](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0169-majority-element) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0125-valid-palindrome](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0151-reverse-words-in-a-string) |
@@ -126,4 +128,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2149-rearrange-array-elements-by-sign](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/2149-rearrange-array-elements-by-sign) |
+## Sliding Window
+|  |
+| ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/bhakti-shingadi/Leetcode_journey/tree/master/0003-longest-substring-without-repeating-characters) |
 <!---LeetCode Topics End-->
